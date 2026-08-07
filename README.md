@@ -125,6 +125,8 @@ A collection of hands-on labs and engineering experiments focused on Cloud, DevO
 
 </p>
 
+<br>
+
 # Tech Stack
 
 <div align="center">
@@ -143,12 +145,9 @@ A collection of hands-on labs and engineering experiments focused on Cloud, DevO
 # GitHub Analytics
 
 <div align="center">
-<br><br>
 
 <img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/3-stats.svg" />
 <img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/4-productive-time.svg" />
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhammadtech&bg_color=00000000&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true" />
 
@@ -163,7 +162,7 @@ A collection of hands-on labs and engineering experiments focused on Cloud, DevO
 - 🚀 Built Multiple Production-Ready Cloud & DevOps Projects
 - 🌍 Delivered 100+ Client Projects Across Multiple Domains
 
----
+<br>
 
 # 🤝 Let's Build Reliable Infrastructure Together
 
