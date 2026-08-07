@@ -1,10 +1,6 @@
-<div align="center">
-
-### DevOps Engineer | Building Secure, Automated & Reliable Cloud Infrastructure for Startups
-
-#### I help teams ship faster with production-ready systems on AWS and Kubernetes, backed by Infrastructure as Code and DevSecOps practices that catch problems before they reach production.
-
-</div>
+<p align="center">
+  <img src="assets/banner%20image.gif" alt="Muhammad Hammad DevOps Banner" width="100%" />
+</p>
 
 <br>
 
