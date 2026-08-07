@@ -4,12 +4,6 @@
 
 #### I help teams ship faster with production-ready systems on AWS and Kubernetes, backed by Infrastructure as Code and DevSecOps practices that catch problems before they reach production.
 
-<br>
-
-[![GitHub](https://img.shields.io/github/followers/muhammadhammadtech?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/muhammadhammadtech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhammadtech/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhammad.tech@gmail.com)
-
 </div>
 
 <br>
@@ -177,5 +171,10 @@ A collection of hands-on labs and engineering experiments focused on Cloud, DevO
 
 Whether you're launching a startup, modernizing infrastructure, or improving deployment pipelines, I'd love to help.
 
-- 📧 **mohammadhammad.tech@gmail.com**
-- 💼 **www.linkedin.com/in/muhammadhammadtech**
+<div align="center">
+  
+[![GitHub](https://img.shields.io/github/followers/muhammadhammadtech?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/muhammadhammadtech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhammadtech/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhammad.tech@gmail.com)
+
+</div>
