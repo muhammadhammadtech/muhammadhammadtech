@@ -1,8 +1,8 @@
 <div align="center">
 
-### DevOps Engineer | building secure, automated cloud infrastructure for startups
+### DevOps Engineer | Building Secure, Automated & Reliable Cloud Infrastructure for Startups
 
-### I help teams ship faster with production-ready systems on AWS and Kubernetes, backed by Infrastructure as Code and DevSecOps practices that catch problems before they reach production.
+#### I help teams ship faster with production-ready systems on AWS and Kubernetes, backed by Infrastructure as Code and DevSecOps practices that catch problems before they reach production.
 
 <br>
 
@@ -29,7 +29,7 @@ I automate deployments and monitoring end to end, cutting down manual ops work a
 
 # Featured Projects
 
-### 📱 Vaultly — Expense Tracker
+### 📱 Vaultly - Expense Tracker App
 A production Flutter app on Google Play, built with biometric authentication, a Supabase backend, and a fully automated release pipeline.
 
 `Flutter` `Supabase` `Firebase` `GitHub Actions`
@@ -38,7 +38,7 @@ A production Flutter app on Google Play, built with biometric authentication, a 
 
 <br>
 
-### ☸️ Rock Paper Scissors — Kubernetes on AWS EKS
+### ☸️ Rock Paper Scissors - Kubernetes on AWS EKS
 A full production deployment pipeline on AWS EKS, covering containerization, GitOps-style delivery through GitHub Actions, and zero-downtime rolling updates.
 
 `AWS EKS` `Docker` `Kubernetes` `GitHub Actions` `Flask`
@@ -47,7 +47,7 @@ A full production deployment pipeline on AWS EKS, covering containerization, Git
 
 <br>
 
-### 🎯 MatchlyPro — AI Resume Matcher
+### 🎯 MatchlyPro - AI Resume Matcher
 An AI-powered resume matching tool running on Gemini, with Docker image validation and automated security checks built into the deployment pipeline.
 
 `Gemini AI` `React` `Docker` `GitHub Actions`
@@ -173,7 +173,7 @@ A collection of hands-on labs and engineering experiments focused on Cloud, DevO
 
 ---
 
-# 🤝 Let's Build Something Great
+# 🤝 Let's Build Reliable Infrastructure Together
 
 Whether you're launching a startup, modernizing infrastructure, or improving deployment pipelines, I'd love to help.
 
