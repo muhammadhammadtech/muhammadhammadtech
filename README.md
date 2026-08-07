@@ -1,10 +1,8 @@
 <div align="center">
 
-# Muhammad Hammad
+### DevOps Engineer | building secure, automated cloud infrastructure for startups
 
-### DevOps Engineer building secure, automated cloud infrastructure for startups
-
-I help teams ship faster with production-ready systems on AWS and Kubernetes, backed by Infrastructure as Code and DevSecOps practices that catch problems before they reach production.
+### I help teams ship faster with production-ready systems on AWS and Kubernetes, backed by Infrastructure as Code and DevSecOps practices that catch problems before they reach production.
 
 <br>
 
@@ -16,7 +14,7 @@ I help teams ship faster with production-ready systems on AWS and Kubernetes, ba
 
 <br>
 
-## What I Do
+# What I Do
 
 **Cloud & DevOps Engineering**
 I design and build cloud infrastructure on AWS and Kubernetes, using Terraform and Docker to keep environments consistent and repeatable.
@@ -29,7 +27,7 @@ I automate deployments and monitoring end to end, cutting down manual ops work a
 
 <br>
 
-## Featured Projects
+# Featured Projects
 
 ### 📱 Vaultly — Expense Tracker
 A production Flutter app on Google Play, built with biometric authentication, a Supabase backend, and a fully automated release pipeline.
@@ -93,44 +91,64 @@ A browser-based Snake game, containerized with Docker and served through Nginx f
 
 <br>
 
-## Learning Labs
+# 📚 Learning Labs
 
-Hands-on practice repos I maintain while working toward Kubernetes and Linux certifications.
+A collection of hands-on labs and engineering experiments focused on Cloud, DevOps, Kubernetes, Linux, Docker, and Infrastructure Automation.
 
-<div align="center">
+<p align="center">
 
-[![KCNA](https://img.shields.io/badge/KCNA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/muhammadhammadtech/KCNA)
-[![KCSA](https://img.shields.io/badge/KCSA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/muhammadhammadtech/KCSA)
-[![CKA](https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/muhammadhammadtech/CKA)
-[![CKAD](https://img.shields.io/badge/CKAD-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/muhammadhammadtech/CKAD)
-[![CKS](https://img.shields.io/badge/CKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/muhammadhammadtech/CKS)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/muhammadhammadtech/Docker)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://github.com/muhammadhammadtech/Ansible)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/muhammadhammadtech/Linux)
+<a href="https://github.com/muhammadhammadtech/KCSA">
+<img src="https://img.shields.io/badge/KCSA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://github.com/muhammadhammadtech/KCNA">
+<img src="https://img.shields.io/badge/KCNA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/CKA">
+<img src="https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/CKAD">
+<img src="https://img.shields.io/badge/CKAD-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/CKS">
+<img src="https://img.shields.io/badge/CKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/Docker">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/Ansible">
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/Linux">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</a>
+
+</p>
 
 <br>
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel&perline=14" />
 
-<br><br>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 <br>
 
-## GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 <br><br>
@@ -160,4 +178,4 @@ Hands-on practice repos I maintain while working toward Kubernetes and Linux cer
 Whether you're launching a startup, modernizing infrastructure, or improving deployment pipelines, I'd love to help.
 
 - 📧 **mohammadhammad.tech@gmail.com**
-- 💼 **https://www.linkedin.com/in/muhammadhammadtech**
+- 💼 **www.linkedin.com/in/muhammadhammadtech**
