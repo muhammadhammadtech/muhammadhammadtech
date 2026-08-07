@@ -81,7 +81,7 @@ A browser-based Snake game, containerized with Docker and served through Nginx f
 
 <br>
 
-## 📚 Learning Labs
+# 📚 Learning Labs
 
 A collection of hands-on labs and engineering experiments focused on Cloud, DevOps, Kubernetes, Linux, Docker, and Infrastructure Automation.
 
