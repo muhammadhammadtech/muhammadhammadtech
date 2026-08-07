@@ -81,47 +81,49 @@ A browser-based Snake game, containerized with Docker and served through Nginx f
 
 <br>
 
-# 📚 Learning Labs
+## 📚 Learning Labs
 
 A collection of hands-on labs and engineering experiments focused on Cloud, DevOps, Kubernetes, Linux, Docker, and Infrastructure Automation.
 
 <p align="center">
 
 <a href="https://github.com/muhammadhammadtech/KCSA">
-<img src="https://img.shields.io/badge/KCSA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/KCSA-LABS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </a>
 
 <a href="https://github.com/muhammadhammadtech/KCNA">
-<img src="https://img.shields.io/badge/KCNA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/KCNA-LABS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </a>
 
 <a href="https://github.com/muhammadhammadtech/CKA">
-<img src="https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/CKA-LABS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </a>
 
 <a href="https://github.com/muhammadhammadtech/CKAD">
-<img src="https://img.shields.io/badge/CKAD-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</a>
-
-<a href="https://github.com/muhammadhammadtech/CKS">
-<img src="https://img.shields.io/badge/CKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</a>
-
-<a href="https://github.com/muhammadhammadtech/Docker">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</a>
-
-<a href="https://github.com/muhammadhammadtech/Ansible">
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-</a>
-
-<a href="https://github.com/muhammadhammadtech/Linux">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/CKAD-LABS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </a>
 
 </p>
 
-<br>
+<p align="center">
+
+<a href="https://github.com/muhammadhammadtech/CKS">
+<img src="https://img.shields.io/badge/CKS-LABS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/Docker">
+<img src="https://img.shields.io/badge/Docker-LABS-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/Ansible">
+<img src="https://img.shields.io/badge/Ansible-LABS-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muhammadhammadtech/Linux">
+<img src="https://img.shields.io/badge/Linux-LABS-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+
+</p>
 
 # Tech Stack
 
@@ -159,7 +161,7 @@ A collection of hands-on labs and engineering experiments focused on Cloud, DevO
 - ☸️ 100+ Hands-on Labs Across AWS, Kubernetes & Linux
 - 📱 Published Android App on Google Play
 - 🚀 Built Multiple Production-Ready Cloud & DevOps Projects
-- 🌍 Delivered 100+ Creative Client Projects Worldwide
+- 🌍 Delivered 100+ Client Projects Across Multiple Domains
 
 ---
 
