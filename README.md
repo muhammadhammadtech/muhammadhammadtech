@@ -142,19 +142,6 @@ A collection of hands-on labs and engineering experiments focused on Cloud, DevO
 
 <br>
 
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/4-productive-time.svg" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhammadtech&bg_color=00000000&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true" />
-
-</div>
-
-<br>
-
 # 🏆 Highlights
 
 - ☸️ 100+ Hands-on Labs Across AWS, Kubernetes & Linux
